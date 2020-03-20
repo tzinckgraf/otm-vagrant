@@ -3,3 +3,8 @@
 otm-core
 otm-tiler
 otm-ecoservice
+
+configs/etc/init/otm-unicorn.conf
+
+# intelliJ
+*.iml
